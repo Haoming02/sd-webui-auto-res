@@ -1,4 +1,10 @@
-﻿# SD Webui Auto Resolution
+<h1 align="center">No Longer Maintained...</h1>
+
+<p align="center">
+Aight, just use this instead: <a href="https://github.com/Haoming02/sd-webui-yapping">sd-webui-yapping</a>
+</p>
+
+## SD Webui Auto Resolution
 This is an Extension for the [Automatic1111 Webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui), 
 which automatically sets the `width` and `height` in **txt2img**, based on the currently selected Checkpoint name.
 
